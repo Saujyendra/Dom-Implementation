@@ -1,0 +1,59 @@
+## WHAT iS Dom implementation ?
+The DOM (Document Object Model) implementation in JavaScript is a programming interface (API) that allows scripts to dynamically access and update the content, structure, and style of a web document.
+# 🎨 Color Greeting App
+
+## 📌 Project Description
+
+This is a simple interactive web page built using **HTML, CSS, and JavaScript (DOM)** as part of my Tutedude Assignment.
+
+The main idea of this project is to understand how JavaScript interacts with HTML elements using the DOM.
+
+---
+
+## 🚀 Features
+
+* User can enter their name and get a personalized greeting
+* Four interactive boxes (Red, Blue, Green, Yellow)
+* Clicking on a box fills it with its respective color
+* Clean and modern UI with hover effects
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML
+* CSS (Flexbox, transitions, gradients)
+* JavaScript (DOM manipulation, event handling)
+
+---
+
+## 📚 What I Learned
+
+* How to select elements using DOM (`getElementById`, `querySelectorAll`)
+* Handling user input
+* Using `addEventListener` for click events
+* Changing content dynamically using JavaScript
+* Applying styles dynamically using JS
+
+---
+
+## ▶️ How to Run the Project
+
+1. Download or clone the repository
+2. Open the project folder in VS Code
+3. Run the `index.html` file in your browser
+
+---
+
+## 💡 Future Improvements
+
+* Add reset button
+* Add animations on click
+* Store user name using localStorage
+* Improve UI with more advanced design
+
+---
+
+## 👨‍💻 Author
+
+**Saujyendra Dutta**
